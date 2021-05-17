@@ -1,3 +1,0 @@
-java main
-pause
-
